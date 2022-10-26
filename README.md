@@ -1,2 +1,5 @@
- # Git Basics
-Practice repository for learning Git workflow!
+ # Learning Git
+
+## Table of Contents
+
+- example_file.txt
